@@ -1,0 +1,3 @@
+Simple AR tool for planning a photo exhibition by placing images into a space.
+
+galleryAR uses ofxARKit addon with couple of changes. You can find the changed files from "ofxARKit-ChangedFiles" directory.
